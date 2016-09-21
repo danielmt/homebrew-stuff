@@ -1,4 +1,4 @@
-class Emacs < Formula
+class Emacs25 < Formula
   desc "GNU Emacs text editor"
   homepage "https://www.gnu.org/software/emacs/"
   url "https://ftpmirror.gnu.org/emacs/emacs-25.1.tar.xz"
