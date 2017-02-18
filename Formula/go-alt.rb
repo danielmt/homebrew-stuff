@@ -1,4 +1,4 @@
-class Go < Formula
+class GoAlt < Formula
   desc "The Go programming language"
   homepage "https://golang.org"
 
