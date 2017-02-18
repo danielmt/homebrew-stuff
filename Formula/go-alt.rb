@@ -1,6 +1,7 @@
 class GoAlt < Formula
   desc "The Go programming language"
   homepage "https://golang.org"
+  conflicts_with "go"
 
   stable do
     url "https://storage.googleapis.com/golang/go1.8.src.tar.gz"
